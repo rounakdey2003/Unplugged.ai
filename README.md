@@ -1,4 +1,4 @@
-# **UNplugged****.**ai
+# **UNplugged**.ai
 
 **Elevate Your Workflow with Standalone AI.**
 
