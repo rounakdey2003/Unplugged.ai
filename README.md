@@ -256,8 +256,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rounak Dey** - [@rounakdey2003](https://github.com/rounakdey2003)
 
-Project Link: [https://github.com/rounakdey2003/unplugged-ai](https://github.com/rounakdey2003/unplugged-ai)
+Project Link: [https://github.com/rounakdey2003/unplugged-ai](https://github.com/rounakdey2003/Unplugged.ai)
 
 ---
 
-**UNplugged**🌈**.ai** - *Bringing AI capabilities to your local machine, no internet required.*
+**UNplugged**.ai - *Bringing AI capabilities to your local machine, no internet required.*
