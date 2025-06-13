@@ -1,0 +1,12 @@
+streamlit
+Pillow
+ollama
+python-docx
+PyPDF2
+pyttsx3
+SpeechRecognition
+pandas
+numpy
+altair
+joblib
+scikit-learn
