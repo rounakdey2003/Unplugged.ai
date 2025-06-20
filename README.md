@@ -1,4 +1,5 @@
 # **UNplugged**.ai
+# 🔗 Link - https://unplugged.streamlit.app
 
 **Elevate Your Workflow with Standalone AI.**
 
