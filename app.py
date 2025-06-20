@@ -224,7 +224,7 @@ with st.sidebar:
         st.write("Step 13: Selectn example or write any prompt to get the answer")
 
     st.divider()
-    st.page_link(page="https://github.com/rounakdey2003", label=":blue-background[:blue[Github]]",
+    st.page_link(page="https://github.com/rounakdey2003/Unplugged.ai", label=":blue-background[:blue[Github]]",
                      help='Teleport to Github',
                      use_container_width=False)
 
