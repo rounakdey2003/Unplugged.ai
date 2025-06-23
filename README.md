@@ -255,9 +255,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Rounak Dey** - [@rounakdey2003](https://github.com/rounakdey2003)
-
-Project Link: [https://github.com/rounakdey2003/unplugged-ai](https://github.com/rounakdey2003/Unplugged.ai)
+**Made with ❤️ by [Rounak Dey](https://github.com/rounakdey2003)**
 
 ---
 
