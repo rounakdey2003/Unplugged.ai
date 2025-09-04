@@ -11,7 +11,7 @@ A powerful, offline AI application built with Streamlit that provides comprehens
 
 ## Features
 
-###�**Multi-Modal AI Interaction**
+### **Multi-Modal AI Interaction**
 - **Chat Interface**: Direct conversation with AI models
 - **Document Analysis**: PDF and DOCX file processing and Q&A
 - **Text Processing**: Upload text files or input manual text for analysis
