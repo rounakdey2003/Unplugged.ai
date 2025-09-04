@@ -1,5 +1,5 @@
 # **UNplugged**.ai
-# 🔗 Link - https://unplugged.streamlit.app
+# Link - https://unplugged.streamlit.app
 
 **Elevate Your Workflow with Standalone AI.**
 
@@ -9,22 +9,22 @@ A powerful, offline AI application built with Streamlit that provides comprehens
 ![Streamlit](https://img.shields.io/badge/streamlit-1.0+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-## 🌟 Features
+## Features
 
-### 🤖 **Multi-Modal AI Interaction**
+###�**Multi-Modal AI Interaction**
 - **Chat Interface**: Direct conversation with AI models
 - **Document Analysis**: PDF and DOCX file processing and Q&A
 - **Text Processing**: Upload text files or input manual text for analysis
 - **Image Analysis**: Vision capabilities for image description and analysis
 - **Voice Commands**: Speech-to-text and text-to-speech functionality
 
-### 🎯 **Sentiment Analysis**
+### **Sentiment Analysis**
 - Real-time emotion detection from user inputs
 - Confidence scoring with visual probability distributions
 - Emoji-based emotion representation
 - Support for multiple emotions: anger, disgust, fear, happy, joy, neutral, sad, shame, surprise
 
-### 🔧 **Model Management**
+### **Model Management**
 - Support for 17+ popular AI models including:
   - **DeepSeek-R1**: 1.5b, 7b, 8b, 14b, 32b, 70b, 671b
   - **Llama 3.3**: 70b
@@ -36,25 +36,25 @@ A powerful, offline AI application built with Streamlit that provides comprehens
   - **Mistral**: 7b
   - And many more...
 
-### 🎙️ **Advanced Voice Features**
+### **Advanced Voice Features**
 - Real-time speech recognition
 - Customizable voice speed (100-300 WPM)
 - Continuous conversation mode
 - Hands-free interaction
 
-### 📁 **Document Processing**
+### **Document Processing**
 - **PDF Support**: Full text extraction and inline preview
 - **DOCX Support**: Microsoft Word document processing
 - **Text Files**: Plain text file upload and manual text input
 - Context-aware questioning based on document content
 
-### 🖼️ **Image Analysis**
+### **Image Analysis**
 - Support for PNG, JPG, JPEG formats
 - Base64 encoding for model compatibility
 - Image description and object detection
 - Mood and caption generation
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -90,15 +90,15 @@ A powerful, offline AI application built with Streamlit that provides comprehens
 5. **Access the application**
    - Open your browser and navigate to `http://localhost:8501`
 
-## 📖 Usage Guide
+## Usage Guide
 
-### 🔧 Model Configuration
+### Model Configuration
 
 1. **Select Model Tab**: Choose from pre-configured models or enter a custom model name
 2. **Model Variations**: Select the appropriate size variant for your hardware
 3. **System Detect**: View currently available models on your system
 
-### 🛠️ Model Management
+### Model Management
 
 Use the **Manage Model** tab to:
 - **Pull**: Download new models
@@ -107,14 +107,14 @@ Use the **Manage Model** tab to:
 - **Start/Stop**: Control Ollama service
 - **Show**: Display model information
 
-### 💬 Chat Interface
+### Chat Interface
 
 - Use predefined example questions or type custom queries
 - Real-time sentiment analysis on user inputs
 - Animated response generation
 - Response time tracking
 
-### 📄 Document Analysis
+### Document Analysis
 
 #### PDF Processing
 - Upload PDF files with inline preview
@@ -133,21 +133,21 @@ Use the **Manage Model** tab to:
 - Combined text analysis from multiple sources
 - Text summarization and explanation
 
-### 🖼️ Image Analysis
+### Image Analysis
 
 - Upload images in PNG, JPG, or JPEG format
 - Ask questions about image content
 - Generate descriptions and captions
 - Analyze mood and detect objects
 
-### 🎙️ Voice Interaction
+### Voice Interaction
 
 - **Start Listening**: Begin speech recognition
 - **Continuous Mode**: Auto-restart listening after AI responses
 - **Voice Speed Control**: Adjust TTS speed (100-300 WPM)
 - **Real-time Status**: Visual feedback for listening/speaking states
 
-## 🏗️ Architecture
+## Architecture
 
 ### Project Structure
 ```
@@ -190,14 +190,14 @@ Each tab module handles specific functionality:
 - Probability distribution visualization
 - Emoji-based emotion representation
 
-## 🔒 Privacy & Security
+## Privacy & Security
 
 - **Offline Operation**: Core AI functionality works without internet
 - **Local Processing**: All data processing happens on your machine
 - **No Data Collection**: No user data is transmitted or stored externally
 - **Model Privacy**: Use local models for sensitive content
 
-## ⚡ Performance Tips
+## Performance Tips
 
 ### Model Selection
 - **Small Models (1b-3b)**: Fast responses, lower accuracy
@@ -214,7 +214,7 @@ Each tab module handles specific functionality:
 - Use smaller models for faster responses
 - Monitor system resources during usage
 
-## 🛠️ Dependencies
+## Dependencies
 
 ### Core Requirements
 ```
@@ -232,7 +232,7 @@ joblib            # Model serialization
 scikit-learn      # Machine learning utilities
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -243,17 +243,17 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Ollama](https://ollama.com) for providing the local AI model infrastructure
 - [Streamlit](https://streamlit.io) for the excellent web application framework
 - The open-source AI community for model development and distribution
 
-## 📧 Contact
+## Contact
 
 **Made with ❤️ by [Rounak Dey](https://github.com/rounakdey2003)**
 
